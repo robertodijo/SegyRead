@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="segyread">
+    <file>resources/open_file_64px_1187339_easyicon.net.png</file>
+  </qresource>
+</RCC>
